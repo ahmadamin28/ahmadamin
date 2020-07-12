@@ -28,15 +28,22 @@ hr{
 }
 .middle-container{
 margin: 100px 0;
+
 }
  .bottom-container{
-
+background-color: #87d4c5;
+padding: 50px 0 20px; 
+margin-top: 5%;
 }
 .montain-img{
     margin-top: -100px;
 }
 .image-class{
     margin-top: 0%;
+}
+.twitter-class{
+
+    color: #11999E;
 }
 
 .btn{
